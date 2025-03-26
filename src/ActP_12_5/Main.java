@@ -14,7 +14,7 @@ public class Main {
     public static void main(String[] args) {
         
         Cliente a = new Cliente("hola","hola","1999/02/14");
-            TreeSet<Cliente> a = new TreeSet<>();
+          
             
           
     }
